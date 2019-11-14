@@ -1,4 +1,4 @@
-katz_deli =  ["One", "Two", "Three"]
+katz_deli =  []
 
 def take_a_number(array, name)
   array.push(name)
